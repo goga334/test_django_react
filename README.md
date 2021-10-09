@@ -1,2 +1,2 @@
-# red
-Test task
+# REactDjango
+Test task with a site 
